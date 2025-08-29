@@ -4,28 +4,29 @@ An interactive Power BI dashboard that provides insights into Amazon sales perfo
 
 <h2>Project Overview</h2>
 
-<h5>I developed an Amazon Sales Dashboard in Power BI to analyze and visualize Amazon sales performance across multiple dimensions. The dashboard provides an interactive way to explore sales, product insights, and customer behavior, enabling data-driven decision-making.</h5>
+I developed an Amazon Sales Dashboard in Power BI to analyze and visualize Amazon sales performance across multiple dimensions. The dashboard provides an interactive way to explore sales, product insights, and customer behavior, enabling data-driven decision-making.
 
 <h3>The report is divided into three key sections:</h3>
 
-<h4>1.Overview Page : Displays high-level KPIs such as total sales, seller count, and order status, along with sales distribution by state, city, and timeline trends.</h4><br>
-<h4>2.Products Page : Provides a product-level analysis with sales amount, units sold, returns, and customer reviews, enabling identification of best-selling and underperforming    products.</h4><br>
-<h4>3.Product View Page : Offers detailed insights into individual products with attributes like sales amount, units by date, return rates, and customer feedback for granular       analysis.</h4><br>
+<h4>1.Overview Page : Displays high-level KPIs such as total sales, seller count, and order status, along with sales distribution by state, city, and timeline trends.</h4>
+<h4>2.Products Page : Provides a product-level analysis with sales amount, units sold, returns, and customer reviews, enabling identification of best-selling and underperforming products.</h4>
+<h4>3.Product View Page : Offers detailed insights into individual products with attributes like sales amount, units by date, return rates, and customer feedback for granular analysis.</h4>
 
-<h5>This project demonstrates the use of interactive visualizations, drill-down features, and dynamic filtering to uncover hidden patterns in data. It highlights how businesses can track performance, optimize inventory, and improve customer experience using analytics.</h5>
+This project demonstrates the use of interactive visualizations, drill-down features, and dynamic filtering to uncover hidden patterns in data. It highlights how businesses can track performance, optimize inventory, and improve customer experience using analytics.
 
-<h2 style="color:cyan">Tools & Technologies Used</h2>
+<h2>Tools & Technologies Used</h2>
 
-<h4>● Power BI : Dashboard creation & visualization</h4><br>
-<h4>● Power Query : Data cleaning & transformation</h4><<br>
-<h4>● CSV Dataset : <a href="https://github.com/S-HarishKumar-36/Amazon-Sales-Performace-Analysis/blob/master/Amazon%20Sale%20Report.csv">Amazon Sale Report</a> & <a href="https://github.com/S-HarishKumar-36/Amazon-Sales-Performace-Analysis/blob/master/amazon-fashion.csv"> amazon-fashion</a></h4><br>
-<h4>● DAX : Measures & calculated field</h4><br>
+<h4>● Power BI : Dashboard creation & visualization</h4>
+<h4>● Power Query : Data cleaning & transformation</h4>
+<h4>● CSV Dataset : <a href="https://github.com/S-HarishKumar-36/Amazon-Sales-Performace-Analysis/blob/master/Amazon%20Sale%20Report.csv">Amazon Sale Report</a> & <a href="https://github.com/S-HarishKumar-36/Amazon-Sales-Performace-Analysis/blob/master/amazon-fashion.csv">amazon-fashion</a></h4>
+<h4>● DAX : Measures & calculated field</h4>
 
 <h2>Power BI Dashboard</h2>
 
 <h3><a href="https://github.com/S-HarishKumar-36/Amazon-Sales-Performace-Analysis/blob/main/AmazonDashboard.pbix">Amazon-Sales-Performace-Analysis(previews)</a>:</h3>
 
-<h4>This dashboard is useful for both long-term business strategy and short-term sales decision-making by providing actionable insights into revenue trends, product performance, and customer behavior.</h4>
+This dashboard is useful for both long-term business strategy and short-term sales decision-making by providing actionable insights into revenue trends, product performance, and customer behavior.
+
 <h5>Overview :</h5>
 <img width="1366" height="768" alt="1 Overview" src="https://github.com/user-attachments/assets/fe8a69f2-3e2a-454b-b77f-1227daeff5a7" />
 <h5>Products :</h5>
@@ -33,7 +34,7 @@ An interactive Power BI dashboard that provides insights into Amazon sales perfo
 <h5>Products view :</h5>
 <img width="1366" height="768" alt="3 Products view" src="https://github.com/user-attachments/assets/62f5dc33-9094-429e-bd61-78a8c1905457" />
 
-<h2 style="color:cyan">Power Query & DAX measures</h2>
+<h2>Power Query & DAX measures</h2>
 
 <h5>amazon-fashion :</h5>
 <img width="1366" height="728" alt="amazon-fashion" src="https://github.com/user-attachments/assets/62b3bc5d-318f-421a-a497-5274f0edd7a6" />
@@ -42,23 +43,23 @@ An interactive Power BI dashboard that provides insights into Amazon sales perfo
 <h5>DAX Measures :</h5>
 <img width="238" height="318" alt="DAX" src="https://github.com/user-attachments/assets/d3a41b89-8302-46ce-bd87-b4a67995e568" />
 
-<h2 style="color:cyan">Key Features of the Dashboard</h2>
+<h2>Key Features of the Dashboard</h2>
 
-<h5>● Comprehensive Sales Analysis – Track total sales, order volume, and seller count with clear KPIs.</h5><br>
-<h5>● Regional Insights – Visualize sales distribution by state and city to identify top-performing markets.</h5><br>
-<h5>● Product Performance – Analyze sales amount, units sold, return rates, and customer reviews for each product.</h5><br>
-<h5>● Trend Analysis – Monitor sales growth and patterns across different time periods (daily, monthly, quarterly).</h5><br>
-<h5>● Interactive Filtering – Drill down into data by region, product, or time to uncover detailed insights.</h5><br>
-<h5>● Product-Level View – Explore detailed information about individual products, including customer feedback and return trends.</h5><br>
-<h5>● Business Decision Support – Provides insights useful for both long-term strategy and short-term sales decisions.</h5><br>
+<h5>● Comprehensive Sales Analysis – <i></i>Track total sales, order volume, and seller count with clear KPIs.</i></h5>
+<h5>● Regional Insights – <i>Visualize sales distribution by state and city to identify top-performing markets.</i></h5>
+<h5>● Product Performance – <i>Analyze sales amount, units sold, return rates, and customer reviews for each product.</i></h5>
+<h5>● Trend Analysis – <i>Monitor sales growth and patterns across different time periods (daily, monthly, quarterly).</i></h5>
+<h5>● Interactive Filtering – <i>Drill down into data by region, product, or time to uncover detailed insights.</i></h5>
+<h5>● Product-Level View – <i>Explore detailed information about individual products, including customer feedback and return trends.</i></h5>
+<h5>● Business Decision Support – <i>Provides insights useful for both long-term strategy and short-term sales decisions.</i></h5>
 
 <h2>Overall Insights</h2>
 
-<p><h5>The dashboard shows that Maharashtra, Karnataka, and Tamil Nadu are the top sales states, with Bengaluru and Hyderabad leading among cities. Sales trends highlight seasonal peaks, while product analysis reveals varying customer engagement and return rates. These insights help businesses optimize inventory, improve customer satisfaction, and guide both short-term and long-term strategies.</h6></p>
+<h5>The dashboard shows that Maharashtra, Karnataka, and Tamil Nadu are the top sales states, with Bengaluru and Hyderabad leading among cities. Sales trends highlight seasonal peaks, while product analysis reveals varying customer engagement and return rates. These insights help businesses optimize inventory, improve customer satisfaction, and guide both short-term and long-term strategies.</h5>
 
 <h2>Final Conclusion</h2>
 
-<p><h5>The Amazon Sales Dashboard provides a clear and interactive view of sales performance, customer behavior, and product trends. By combining high-level KPIs with detailed product insights, it enables businesses to make data-driven decisions for both short-term actions and long-term growth strategies.</h5></p>
+<h5>The Amazon Sales Dashboard provides a clear and interactive view of sales performance, customer behavior, and product trends. By combining high-level KPIs with detailed product insights, it enables businesses to make data-driven decisions for both short-term actions and long-term growth strategies.</h5>
 
 <h2>Future Use & Goals</h2>
 
