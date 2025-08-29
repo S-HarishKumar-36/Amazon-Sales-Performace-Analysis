@@ -8,9 +8,9 @@ I developed an Amazon Sales Dashboard in Power BI to analyze and visualize Amazo
 
 <h3>The report is divided into three key sections:</h3>
 
-<h4>1.Overview Page : Displays high-level KPIs such as total sales, seller count, and order status, along with sales distribution by state, city, and timeline trends.</h4>
-<h4>2.Products Page : Provides a product-level analysis with sales amount, units sold, returns, and customer reviews, enabling identification of best-selling and underperforming products.</h4>
-<h4>3.Product View Page : Offers detailed insights into individual products with attributes like sales amount, units by date, return rates, and customer feedback for granular analysis.</h4>
+<h5>1.Overview Page : Displays high-level KPIs such as total sales, seller count, and order status, along with sales distribution by state, city, and timeline trends.</h5>
+<h5>2.Products Page : Provides a product-level analysis with sales amount, units sold, returns, and customer reviews, enabling identification of best-selling and underperforming products.</h5>
+<h5>3.Product View Page : Offers detailed insights into individual products with attributes like sales amount, units by date, return rates, and customer feedback for granular analysis.</h5>
 
 This project demonstrates the use of interactive visualizations, drill-down features, and dynamic filtering to uncover hidden patterns in data. It highlights how businesses can track performance, optimize inventory, and improve customer experience using analytics.
 
@@ -63,17 +63,16 @@ This dashboard is useful for both long-term business strategy and short-term sal
 
 <h2>Future Use & Goals</h2>
 
-<h4>* Enhance the dashboard with real-time data integration for up-to-date decision-making.</h4>
-<h4>* Incorporate predictive analytics to forecast sales trends and customer demand.</h4>
-<h4>* Add advanced product segmentation to identify high-value and at-risk customers.</h4>
-<h4>* Expand to include profitability analysis and cost breakdown for better financial planning.</h4>
-<h4>* Deploy the dashboard to the Power BI Service for online access and team collaboration.</h4>
-<h4>* Continuously refine insights to support both strategic planning and operational improvements.</h4><br>
+* Enhance the dashboard with real-time data integration for up-to-date decision-making.
+* Incorporate predictive analytics to forecast sales trends and customer demand.
+* Add advanced product segmentation to identify high-value and at-risk customers.
+* Expand to include profitability analysis and cost breakdown for better financial planning.
+* Deploy the dashboard to the Power BI Service for online access and team collaboration.
+* Continuously refine insights to support both strategic planning and operational improvements.
 
 <h2>Acknowledgements</h2>
 
 <h3>I would like to express my gratitude to:</h3>
-
-<h5>● Microsoft Power BI for providing a powerful platform to build interactive dashboards.</h5>
-<h5>● Open-source datasets and resources that supported data exploration and analysis.</h5>
-<h5>● Mentors, peers, and the data analytics community for continuous learning, guidance, and inspiration.</h5>
+1. Microsoft Power BI for its platform.
+2. Open-source datasets and resources.
+3. Mentors, peers, and the data analytics community.
