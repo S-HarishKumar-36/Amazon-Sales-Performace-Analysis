@@ -6,7 +6,7 @@ An interactive Power BI dashboard that provides insights into Amazon sales perfo
 
 I developed an Amazon Sales Dashboard in Power BI to analyze and visualize Amazon sales performance across multiple dimensions. The dashboard provides an interactive way to explore sales, product insights, and customer behavior, enabling data-driven decision-making.
 
-<h3>The report is divided into three key sections:</h3>
+<h3><u>The report is divided into three key sections:</u></h3>
 
 <h4>1.Overview Page : Displays high-level KPIs such as total sales, seller count, and order status, along with sales distribution by state, city, and timeline trends.</h4>
 <h4>2.Products Page : Provides a product-level analysis with sales amount, units sold, returns, and customer reviews, enabling identification of best-selling and underperforming products.</h4>
@@ -23,7 +23,7 @@ This project demonstrates the use of interactive visualizations, drill-down feat
 
 <h2>Power BI Dashboard</h2>
 
-<h3><a href="https://github.com/S-HarishKumar-36/Amazon-Sales-Performace-Analysis/blob/main/AmazonDashboard.pbix">Amazon-Sales-Performace-Analysis(previews)</a>:</h3>
+<h3><a href="https://github.com/S-HarishKumar-36/Amazon-Sales-Performace-Analysis/blob/main/AmazonDashboard.pbix"><u>Amazon-Sales-Performace-Analysis</u></a>(previews):</h3>
 
 This dashboard is useful for both long-term business strategy and short-term sales decision-making by providing actionable insights into revenue trends, product performance, and customer behavior.
 
@@ -45,7 +45,7 @@ This dashboard is useful for both long-term business strategy and short-term sal
 
 <h2>Key Features of the Dashboard</h2>
 
-<h5>● Comprehensive Sales Analysis – <i></i>Track total sales, order volume, and seller count with clear KPIs.</i></h5>
+<h5>● Comprehensive Sales Analysis – <i>Track total sales, order volume, and seller count with clear KPIs.</i></h5>
 <h5>● Regional Insights – <i>Visualize sales distribution by state and city to identify top-performing markets.</i></h5>
 <h5>● Product Performance – <i>Analyze sales amount, units sold, return rates, and customer reviews for each product.</i></h5>
 <h5>● Trend Analysis – <i>Monitor sales growth and patterns across different time periods (daily, monthly, quarterly).</i></h5>
@@ -72,7 +72,7 @@ This dashboard is useful for both long-term business strategy and short-term sal
 
 <h2>Acknowledgements</h2>
 
-<h3>I would like to express my gratitude to:</h3>
+<h3><u>I would like to express my gratitude to:</u></h3>
 
 <h5>● Microsoft Power BI for providing a powerful platform to build interactive dashboards.</h5>
 <h5>● Open-source datasets and resources that supported data exploration and analysis.</h5>
