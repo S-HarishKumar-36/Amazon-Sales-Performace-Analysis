@@ -8,7 +8,7 @@ I developed an Amazon Sales Dashboard in Power BI to analyze and visualize Amazo
 
 <h3>The report is divided into three key sections:</h3>
 
-<h4>1.Overview Page : <span> Displays high-level KPIs such as total sales, seller count, and order status, along with sales distribution by state, city, and timeline trends.</span></h4><br>
+<h4>1.Overview Page :</h4> <span> Displays high-level KPIs such as total sales, seller count, and order status, along with sales distribution by state, city, and timeline trends.</span><br>
 <h4>2.Products Page</h4>– Provides a product-level analysis with sales amount, units sold, returns, and customer reviews, enabling identification of best-selling and underperforming products.<br>
 <h4>3.Product View Page</h4>– Offers detailed insights into individual products with attributes like sales amount, units by date, return rates, and customer feedback for granular analysis.<br>
 
