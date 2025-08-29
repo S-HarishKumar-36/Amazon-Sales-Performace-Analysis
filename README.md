@@ -73,6 +73,6 @@ This dashboard is useful for both long-term business strategy and short-term sal
 <h2>Acknowledgements</h2>
 
 <h3>I would like to express my gratitude to:</h3>
-1. Microsoft Power BI for its platform.
-2. Open-source datasets and resources.
-3. Mentors, peers, and the data analytics community.
+1. Microsoft Power BI for its platform.<br>
+2. Open-source datasets and resources.<br>
+3. Mentors, peers, and the data analytics community.<br>
