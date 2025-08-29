@@ -7,10 +7,11 @@ An interactive Power BI dashboard that provides insights into Amazon sales perfo
 I developed an Amazon Sales Dashboard in Power BI to analyze and visualize Amazon sales performance across multiple dimensions. The dashboard provides an interactive way to explore sales, product insights, and customer behavior, enabling data-driven decision-making.
 
 <h3>The report is divided into three key sections:</h3>
-
-<h4>1.Overview Page :</h4> <span> Displays high-level KPIs such as total sales, seller count, and order status, along with sales distribution by state, city, and timeline trends.</span><br>
-<h4>2.Products Page</h4>– Provides a product-level analysis with sales amount, units sold, returns, and customer reviews, enabling identification of best-selling and underperforming products.<br>
-<h4>3.Product View Page</h4>– Offers detailed insights into individual products with attributes like sales amount, units by date, return rates, and customer feedback for granular analysis.<br>
+<pre>
+<h4>1.Overview Page :</h4> Displays high-level KPIs such as total sales, seller count, and order status, along with sales distribution by state, city, and timeline trends.<br>
+<h4>2.Products Page :</h4> Provides a product-level analysis with sales amount, units sold, returns, and customer reviews, enabling identification of best-selling and underperforming                                products.<br>
+<h4>3.Product View Page :</h4> Offers detailed insights into individual products with attributes like sales amount, units by date, return rates, and customer feedback for granular                                       analysis.<br>
+</pre>
 
 This project demonstrates the use of interactive visualizations, drill-down features, and dynamic filtering to uncover hidden patterns in data. It highlights how businesses can track performance, optimize inventory, and improve customer experience using analytics.
 
@@ -21,7 +22,7 @@ This project demonstrates the use of interactive visualizations, drill-down feat
 <h4>● CSV Dataset :</h4> <a href="https://github.com/S-HarishKumar-36/Amazon-Sales-Performace-Analysis/blob/master/Amazon%20Sale%20Report.csv">Amazon Sale Report</a> & <a href="https://github.com/S-HarishKumar-36/Amazon-Sales-Performace-Analysis/blob/master/amazon-fashion.csv"> amazon-fashion</a><br>
 <h4>● DAX :</h4> Measures & calculated field<br></p>
 
-<h2 onclick="dashboard">Power BI Dashboard</h2>
+<h2>Power BI Dashboard</h2>
 
 <a href="https://github.com/S-HarishKumar-36/Amazon-Sales-Performace-Analysis/blob/main/AmazonDashboard.pbix"><h3>Amazon-Sales-Performace-Analysis(previews):</h3></a>
 
@@ -32,6 +33,15 @@ This project demonstrates the use of interactive visualizations, drill-down feat
 <img width="1366" height="768" alt="2 Products" src="https://github.com/user-attachments/assets/11004e19-7558-4254-9f47-e6276ccccc1c" />
 <h5>Products view</h5>
 <img width="1366" height="768" alt="3 Products view" src="https://github.com/user-attachments/assets/62f5dc33-9094-429e-bd61-78a8c1905457" />
+
+<h2>Power Query & DAX measures</h2>
+
+<h5>amazon-fashion :</h5>
+<img width="1366" height="728" alt="amazon-fashion" src="https://github.com/user-attachments/assets/62b3bc5d-318f-421a-a497-5274f0edd7a6" />
+<h5>Amazon Sale Report :</h5>
+<img width="1366" height="728" alt="Amazon Sale Report" src="https://github.com/user-attachments/assets/7e37b5fe-9c75-4cdf-b974-0680e1b3c0ee" />
+<h5>DAX Measures</h5>
+<img width="238" height="318" alt="DAX" src="https://github.com/user-attachments/assets/d3a41b89-8302-46ce-bd87-b4a67995e568" />
 
 <h1>Key Features of the Dashboard</h1>
 
