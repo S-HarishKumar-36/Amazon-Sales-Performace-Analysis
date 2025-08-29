@@ -8,22 +8,22 @@ I developed an Amazon Sales Dashboard in Power BI to analyze and visualize Amazo
 
 <h3>The report is divided into three key sections:</h3>
 
-<h4>1.Overview Page</h4>– Displays high-level KPIs such as total sales, seller count, and order status, along with sales distribution by state, city, and timeline trends.<br>
+<p><h4>1.Overview Page</h4>– Displays high-level KPIs such as total sales, seller count, and order status, along with sales distribution by state, city, and timeline trends.<br>
 <h4>2.Products Page</h4>– Provides a product-level analysis with sales amount, units sold, returns, and customer reviews, enabling identification of best-selling and underperforming products.<br>
-<h4>3.Product View Page</h4>– Offers detailed insights into individual products with attributes like sales amount, units by date, return rates, and customer feedback for granular analysis.<br>
+<h4>3.Product View Page</h4>– Offers detailed insights into individual products with attributes like sales amount, units by date, return rates, and customer feedback for granular analysis.<br></p>
 
 This project demonstrates the use of interactive visualizations, drill-down features, and dynamic filtering to uncover hidden patterns in data. It highlights how businesses can track performance, optimize inventory, and improve customer experience using analytics.
 
 <h2>Tools & Technologies Used</h2>
 
-<h4>● Power BI</h4>– Dashboard creation & visualization<br>
-<h4>● Power Query</h4>– Data cleaning & transformation<br>
-<h4>● CSV Dataset</h4>– <a href="https://github.com/S-HarishKumar-36/Amazon-Sales-Performace-Analysis/blob/master/Amazon%20Sale%20Report.csv">Amazon Sale Report</a> & <a href="https://github.com/S-HarishKumar-36/Amazon-Sales-Performace-Analysis/blob/master/amazon-fashion.csv"> amazon-fashion</a><br>
-<h4>● DAX</h4> – Measures & calculated field<br>
+<p><h4 ID_name="dashboard">● Power BI :</h4> Dashboard creation & visualization<br>
+<h4>● Power Query :</h4> Data cleaning & transformation<br>
+<h4>● CSV Dataset :</h4> <a href="https://github.com/S-HarishKumar-36/Amazon-Sales-Performace-Analysis/blob/master/Amazon%20Sale%20Report.csv">Amazon Sale Report</a> & <a href="https://github.com/S-HarishKumar-36/Amazon-Sales-Performace-Analysis/blob/master/amazon-fashion.csv"> amazon-fashion</a><br>
+<h4>● DAX :</h4> Measures & calculated field<br></p>
 
-<h2>Power BI Dashboard</h2>
+<h2 onclick="dashboard">Power BI Dashboard</h2>
 
-<h3>Amazon-Sales-Performace-Analysis(previews):</h3>
+<a href="https://github.com/S-HarishKumar-36/Amazon-Sales-Performace-Analysis/blob/main/AmazonDashboard.pbix"><h3>Amazon-Sales-Performace-Analysis(previews):</h3></a>
 
 <h4>This dashboard is useful for both long-term business strategy and short-term sales decision-making by providing actionable insights into revenue trends, product performance, and customer behavior.</h4>
 <h5>Overview</h5>
@@ -35,10 +35,10 @@ This project demonstrates the use of interactive visualizations, drill-down feat
 
 <h1>Key Features of the Dashboard</h1>
 
-<h6>Comprehensive Sales Analysis</h6>– Track total sales, order volume, and seller count with clear KPIs.<br>
-<h6>Regional Insights</h6>– Visualize sales distribution by state and city to identify top-performing markets.<br>
-<h6>Product Performance</h6>– Analyze sales amount, units sold, return rates, and customer reviews for each product.<br>
-<h6>Trend Analysis</h6>– Monitor sales growth and patterns across different time periods (daily, monthly, quarterly).<br>
-<h6>Interactive Filtering</h6>– Drill down into data by region, product, or time to uncover detailed insights.<br>
-<h6>Product-Level View</h6>– Explore detailed information about individual products, including customer feedback and return trends.<br>
-<h6>Business Decision Support</h6>– Provides insights useful for both long-term strategy and short-term sales decisions.
+<p><h5>Comprehensive Sales Analysis</h5>– Track total sales, order volume, and seller count with clear KPIs.<br>
+<h5>Regional Insights</h5>– Visualize sales distribution by state and city to identify top-performing markets.<br>
+<h5>Product Performance</h5>– Analyze sales amount, units sold, return rates, and customer reviews for each product.<br>
+<h5>Trend Analysis</h5>– Monitor sales growth and patterns across different time periods (daily, monthly, quarterly).<br>
+<h5>Interactive Filtering</h5>– Drill down into data by region, product, or time to uncover detailed insights.<br>
+<h5>Product-Level View</h5>– Explore detailed information about individual products, including customer feedback and return trends.<br>
+<h5>Business Decision Support</h5>– Provides insights useful for both long-term strategy and short-term sales decisions.</p>
