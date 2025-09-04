@@ -28,7 +28,7 @@ This project demonstrates the use of interactive visualizations, drill-down feat
 This dashboard is useful for both long-term business strategy and short-term sales decision-making by providing actionable insights into revenue trends, product performance, and customer behavior.
 
 <h5>Overview :</h5>
-<img width="1366" height="768" alt="1 Overview" src="https://github.com/user-attachments/assets/fe8a69f2-3e2a-454b-b77f-1227daeff5a7" />
+<img width="1366" height="723" alt="1 Overview" src="https://github.com/user-attachments/assets/ac1fffba-0cfa-47d3-abd8-cd4d23cf28ea" />
 <h5>Products :</h5>
 <img width="1366" height="768" alt="2 Products" src="https://github.com/user-attachments/assets/11004e19-7558-4254-9f47-e6276ccccc1c" />
 <h5>Products view :</h5>
